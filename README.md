@@ -1,20 +1,20 @@
-## Practica sistemas programables - Conexión Java-LCD, sensor de temperatura y hora
+## Practica sistemas programables - Conexión Java-LCD, sensor de temperatura y fecha/hora
 
 Alumnos:
--Castañeda Mares Luis Gerardo.
+- Castañeda Mares Luis Gerardo.
 _________________________________________________________________________________
 
-#Material utilizado:
--1 Display LCD 16x2.
--1 Sensor de temperatura LM35
--1 1 potenciometro de 10k.
--1 Arduino UNO.
--1 Protoboard
--Cable conectores (Macho-hembra, maho-macho).
+# Material utilizado:
+- 1 Display LCD 16x2.
+- 1 Sensor de temperatura LM35
+- 1 1 potenciometro de 10k.
+- 1 Arduino UNO.
+- 1 Protoboard
+- Cable conectores (Macho-hembra, maho-macho).
 
 __________________________________________________________________________________
 
-#Funcionamiento
+# Funcionamiento
 
 El proyecto cuenta con una interfaz Java en la cual es posible enviar un mensaje para que este sea impreso en el LCD, el programa .ino obtiene la hora y la fecha del sistema, mostrándo estos datos de manera alternada al mensaje que se manda imprimir desde la interfaz Java.
 
